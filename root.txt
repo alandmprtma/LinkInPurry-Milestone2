@@ -1,0 +1,8 @@
+root
+    backend
+        Dockerfile
+        db
+            init.sql
+    frontend
+        Dockerfile
+    docker-compose.yml
