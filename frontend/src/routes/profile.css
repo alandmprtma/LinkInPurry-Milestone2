@@ -1,0 +1,23 @@
+#root{
+    justify-content: center;
+    width: 100%;
+}
+
+body{
+    place-items: flex-start;
+}
+
+h3 {
+    color: black;
+}
+
+.card {
+    padding: 4em;
+}
+
+html, body {
+    overflow-x: hidden;
+    height: max-content;
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "message",
+    "body": {
+        "username": "john_doe",
+        "name": "John Doe",
+        "work_history": "Rain catcher",
+        "skills": "Generic Skill II, Generic Skill I",
+        "connection_count": 69,
+        "profile_photo": "Image idk man",
+        "relevant_posts": [
+            {"post_id" : 100,"content" : "Im over here stroking my dick i got lotion on my shit"}
+        ]
+    }
+}
